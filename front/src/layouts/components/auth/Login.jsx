@@ -8,7 +8,9 @@ const Login = () => {
   let redireccion = useNavigate();
 
   if (getUsuario === "sebastian") {
-    redireccion("/home")
+    setTimeout(() => {
+      redireccion("/home")
+    },3000);
   } else {
     
   }
