@@ -4,14 +4,14 @@
             "id": "1",
             "documento": "1020304050",
             "nombre": "Sebastian Villada",
-            "usuario": "admin",
+            "usuario": "admin.1",
             "contrasena": "1020304050"
         },
         {
             "id": "2",
             "documento": "1030405060",
             "nombre": "Jaime Zapata",
-            "usuario": "admin",
+            "usuario": "admin.2",
             "contrasena": "1030405060"
         }
     ]
